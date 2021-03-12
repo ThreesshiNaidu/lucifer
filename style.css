@@ -1,0 +1,40 @@
+.rounded-circle{
+    width: 150px;height: 150px;
+}
+.jumbotron{
+    margin-bottom: 0px;
+}
+#ABOUT{
+  background-color: black;
+  color: azure;
+}
+#SKILLS {
+  background-color: #8a0303;
+}
+.noice{
+  color: black;
+  text-align: center;
+}
+#EDUCATION{ 
+  background-color: #8a0303;
+}
+.Awards{
+  text-align: center;
+  background-color: black;
+  color: aliceblue;
+}
+.boy{
+  background-color: black;
+  color: aliceblue;
+}
+#FOOTER{
+  background-color:  #8a0303;
+}
+#AWARDS{
+  background-color: #8a0303;
+}
+.GACHI{
+  background-color: crimson;
+  color: aliceblue;
+  text-align: center;
+}
